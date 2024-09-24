@@ -1,1 +1,4 @@
-# The Menu App
+# The Menu App 
+
+## Displays a list of delicious sushi items and their assigned prices.
+
